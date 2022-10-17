@@ -1,6 +1,6 @@
 ### Hi there, I'm Eugene 👋
 
-C/C++ Developer and Software Architect.
+Python, C/C++ Developer and Software Architect.
 
 - 🔭 I’m currently working on ... something cool 😉
 - 🌱 I’m currently learning ... everything 😂
